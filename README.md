@@ -6,7 +6,7 @@ Developing a student grade system in which a teacher would be able to edit, add,
 
 ## Technologies Used
 
-* Coding program: - Community edition
+* Coding program: Pycharm - Community edition
 * Storage Database: MongoDB Compass 
 
 ## Features
