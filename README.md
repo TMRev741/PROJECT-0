@@ -1,4 +1,4 @@
-# PROJECT-0
+# Revature P1
 Pycharm Coding:
 Developing a student grade system in which a teacher would be able to edit, add, update, or delete a student from their system.
 The teacher would be able to add a new student, with it, a new randomized ID would be generated for that student by typing "Add", along with a blank grade until it is inserted.
